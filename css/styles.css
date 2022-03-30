@@ -44,10 +44,6 @@ h2 {
     font-size: 4rem;
 }
 
-.h2-black {
-    color: #1b0760;
-}
-
 h3 {
     font-size: 3rem;
     font-weight: 500;
@@ -893,4 +889,9 @@ a {
     .footer__heading {
         font-size: 1.6rem;
     }
+}
+
+/* Sign-up Callout */
+.callout-signup {
+    transform: translateY(5rem);
 }
